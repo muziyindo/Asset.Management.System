@@ -1,0 +1,1 @@
+[17-Feb-2016 11:51:39 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home/primerac/public_html/loanportal/application/controllers/qlip_controller.php on line 671
